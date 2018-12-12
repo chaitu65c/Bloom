@@ -1,7 +1,8 @@
 // Copyright (c) Microsoft. All rights reserved.
 // Licensed under the MIT license. See LICENSE file in the project root for full license information.
-
 // Please use an Arduino IDE 1.6.8 or greater
+
+//THIS IS THE MAIN FILE TO RUN.
 
 #include <ESP8266WiFi.h>
 #include <WiFiClientSecure.h>
